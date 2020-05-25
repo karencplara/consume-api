@@ -1,0 +1,24 @@
+body {
+    background-color: #000000c9;
+    color: #fff;
+}
+
+table{
+    color: #fff !important;
+}
+
+.h3-title-films {
+    color:#ffff00;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-family: cursive;
+}
+
+thead{
+    font-size: 1.4em;
+}
+
+tbody{
+    font-size: 1.2em;
+}
